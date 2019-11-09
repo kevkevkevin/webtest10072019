@@ -41,16 +41,16 @@ a.blogtag {
 
 @font-face {
     font-family: Averta-Regular;
-    src: url(/webfonts/averta-pe-regular.eot);
-    src: url(/webfonts/averta-pe-regular.eot?#iefix) format('embedded-opentype'), url(/webfonts/averta-pe-regular.woff) format('woff'), url(/webfonts/averta-pe-regular.ttf) format('truetype'), url(/webfonts/averta-pe-regular.svg#youworkforthem) format('svg');
+    src: url(webfonts/averta-pe-regular.eot);
+    src: url(webfonts/averta-pe-regular.eot?#iefix) format('embedded-opentype'), url(webfonts/averta-pe-regular.woff) format('woff'), url(webfonts/averta-pe-regular.ttf) format('truetype'), url(webfonts/averta-pe-regular.svg#youworkforthem) format('svg');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: Averta-Bold;
-    src: url(/webfonts/averta-pe-bold.eot);
-    src: url(/webfonts/averta-pe-bold.eot?#iefix) format('embedded-opentype'), url(/webfonts/averta-pe-bold.woff) format('woff'), url(/webfonts/averta-pe-bold.ttf) format('truetype'), url(/webfonts/averta-pe-bold.svg#youworkforthem) format('svg');
+    src: url(webfonts/averta-pe-bold.eot);
+    src: url(webfonts/averta-pe-bold.eot?#iefix) format('embedded-opentype'), url(webfonts/averta-pe-bold.woff) format('woff'), url(webfonts/averta-pe-bold.ttf) format('truetype'), url(webfonts/averta-pe-bold.svg#youworkforthem) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -412,7 +412,7 @@ div.blogover {
 }
 
 #topslice.beachjoe {
-    background: url(/assets/slices/beachjoe.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/beachjoe.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
@@ -422,32 +422,32 @@ div.blogover {
 }
 
 #topslice.faqs {
-    background: url(/assets/slices/faqs.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/faqs.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
 #topslice.about {
-    background: url(/assets/slices/about.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/about.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
 #topslice.media {
-    background: url(/assets/slices/media.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/media.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
 #topslice.contact {
-    background: url(/assets/slices/contact.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/contact.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
 div.proteinslice {
-    background: url(/assets/slices/myprotein.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/myprotein.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
 div.goustoslice {
-    background: url(/assets/slices/gousto.jpg) 80% 40% no-repeat #fff;
+    background: url(assets/slices/gousto.jpg) 80% 40% no-repeat #fff;
     background-size: cover
 }
 
