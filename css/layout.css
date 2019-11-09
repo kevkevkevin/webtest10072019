@@ -417,7 +417,7 @@ div.blogover {
 }
 
 #topslice.bottlejoe {
-    background: url(/assets/slices/bottlejoe.jpg) 48% 40% no-repeat #fff;
+    background: url(assets/slices/bottlejoe.jpg) 48% 40% no-repeat #fff;
     background-size: cover
 }
 
@@ -618,7 +618,7 @@ ul.blueticks {
 }
 
 ul.blueticks li {
-    background: url(/assets/bluetick.png) left center no-repeat;
+    background: url(assets/bluetick.png) left center no-repeat;
     background-size: 20px;
     padding-left: 30px;
     margin-bottom: 10px
@@ -670,7 +670,7 @@ div.ifnewplan {
     bottom: 0;
     height: 60px;
     width: 100%;
-    background-image: url(/assets/tranbanner_new.png);
+    background-image: url(assets/tranbanner_new.png);
     background-size: cover
 }
 
@@ -726,7 +726,7 @@ div.homeblogs div.blogarticle div.blogimage {
 }
 
 #whyyou {
-    background-image: url(/assets/gcircleslice.png), url(/assets/bcircleslice.png);
+    background-image: url(assets/gcircleslice.png), url(assets/bcircleslice.png);
     background-position: right bottom, left top;
     background-repeat: no-repeat, no-repeat;
     background-size: auto 100%, auto 100%
@@ -1071,7 +1071,7 @@ p.minititle {
     font-size: 18px;
     font-weight: 600;
     color: #ccc;
-    background: url(/assets/minititle_back.png) no-repeat;
+    background: url(assets/minititle_back.png) no-repeat;
     height: 32px;
     margin-top: 70px
 }
