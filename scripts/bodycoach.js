@@ -2,7 +2,7 @@ $(document).ready(function() {
 		
 	var scriptPrice = 97;
 	var scriptCurrency = "GBP";
-		
+	/* Removing jabascript codes.	
 	$(window).scroll(function() { 
 	
 		var currentScroll = $(window).scrollTop(); 
@@ -14,7 +14,7 @@ $(document).ready(function() {
 			$('.dock2').removeClass('navbarcorrect'); 
 		}
 	});
-	
+	*/
 	$(".nicescroll").click(function(e) { 
 		e.preventDefault(); 
 		var dest = $(this).attr('href'); 
