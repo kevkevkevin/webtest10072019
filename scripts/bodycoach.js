@@ -44,7 +44,7 @@ $(document).ready(function() {
 		navigation : true, 
 		paginationSpeed : 400,
 		singleItem:true,
-		navigationText: ["<img src='/assets/l_arrow.svg'>","<img src='/assets/r_arrow.svg'>"]
+		navigationText: ["<img src='assets/l_arrow.svg'>","<img src='assets/r_arrow.svg'>"]
 	});
 	
 	$("#burger").click(function(e) { 
