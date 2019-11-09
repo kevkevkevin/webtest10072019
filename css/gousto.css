@@ -1,0 +1,28 @@
+div.dock1 {
+    background: #f6323e;
+    color: #ffffff;
+    text-align: center;
+}
+
+div.dock1 a.cta {
+	background: #ffffff;
+	color: #f6323e;
+	margin: 2px 0px 2px 20px;
+	padding: 5px 18px;
+}
+
+div.dock1 img {
+	margin: 0px 2px -6px;
+}
+
+div.dock1 div.padsmall {
+    padding: 8px 0;
+}
+
+@media only screen and (min-width:320px) and (max-width:760px) {
+
+	div.topdock {
+		font-size: 12px;
+	}
+	
+}
